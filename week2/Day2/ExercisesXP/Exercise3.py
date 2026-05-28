@@ -1,6 +1,6 @@
 #---------------- Exercise 3 Dog Domesticated
 
-import Dog
+from ExercisesXP import Dog
 
 
 
